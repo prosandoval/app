@@ -1,2 +1,2 @@
 # app
-Imágenes e íconos redes sopciales para apps radios
+Imágenes e íconos redes sociales para apps radios
